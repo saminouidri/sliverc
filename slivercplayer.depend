@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1516124659 source:c:\users\surox\desktop\c - gcc project\slivercplayer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"includes/music.h"
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1516124952 c:\users\surox\desktop\c - gcc project\slivercplayer\includes\music.h
+	<dirent.h>
+	<windows.h>
+
